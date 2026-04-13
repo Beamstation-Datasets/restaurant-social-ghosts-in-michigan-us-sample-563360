@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Michigan, US",
+  "export_job_id": "fb485cb1-fbc1-4411-8341-aaaa843a8a58",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 563360,
+  "location_name": "Michigan",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-michigan-us-sample-563360",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/563360/beamstation_563360_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 25,
+  "sample_sha256": "a045e6066439ddfe45a6de86f698103ea5f879e66d0f811835f6e286c5f21203",
+  "sample_size_bytes": 99292,
+  "total_records": 250,
+  "updated_at": "2026-04-08T06:32:25.905239+00:00"
+}

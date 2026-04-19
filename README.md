@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Michigan, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `563360` |
 | Location | Michigan |
 | Category | Restaurants |
-| Full dataset size | 250 records |
-| Free sample size | 25 records (10.0%) |
-| Last export | 2026-04-08T06:32:25.905239+00:00 |
+| Full dataset size | 245 records |
+| Free sample size | 24 records (9.8%) |
+| Last export | 2026-04-15T10:08:46.957311+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-michigan-us-sample-563360/releases/download/sample-latest/beamstation_563360_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample

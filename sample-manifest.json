@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6a91873a-27f4-4953-af6f-92a6ea8efb2c",
+  "export_job_id": "799f8e8a-ddbc-44c1-a968-d9177c70f1e6",
   "id_short": 563360,
-  "published_at": "2026-04-19T07:32:32Z",
+  "published_at": "2026-04-22T19:54:29Z",
   "repo_name": "restaurant-social-ghosts-in-michigan-us-sample-563360",
   "sample_asset_name": "beamstation_563360_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/563360/beamstation_563360_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "732c88fcfec774d3040cf7bdedbbf2e9eb6149905c6d907a0a862cbff061f02c",
-  "sample_size_bytes": 94893,
-  "total_records": 245
+  "sample_records": 5,
+  "sample_sha256": "725cfc2ff1d39b9fff4c68b3e4cbcf1dd83fc7fb5b9701e991fa904c809cbcd7",
+  "sample_size_bytes": 33364,
+  "total_records": 50
 }
